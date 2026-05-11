@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tri and I'm a student learning Data Engineering at SAMK, in Pori, Finland, from Danang, Vietnam</p>
+<p align="left">My name is Tri and I'm a student learning Data Engineering at SAMK, in Pori, Finland, from Da Nang, Viet Nam</p>
 
 ###
 
